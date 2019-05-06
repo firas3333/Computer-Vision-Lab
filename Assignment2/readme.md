@@ -1,6 +1,6 @@
 implemintation of BOW algorithm - bag of words  
 
-recognizing objects in a set of images.
+recognizing objects in images.
 
 input - train qeue: set of classes each class is a set of images that include the same object
        
