@@ -11,3 +11,5 @@ output:
 for each image: the object tha it contains 
 
 for each class of objects: confusion matrix , ROC graph.
+
+in the docx file you can see a complete in depth report
